@@ -30,7 +30,6 @@ const Hero = () => {
           <Image src="/hero.png" alt="hero" fill className="object-contain"/>
         </div>
         <div className="hero__image-overlay" />
-        // TODO 47:18
       </div>
     </div>
     )
