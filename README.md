@@ -16,7 +16,8 @@ pnpm dev
 ## Other infos
 - Youtube link: https://www.youtube.com/watch?v=pUNSHPyVryU&t=2856
 - UI components: https://headlessui.com/
-
+- car pictures: https://www.imagin.studio/subscriptions/pricing
+- car details: https://rapidapi.com/apininjas/api/cars-by-api-ninjas
 
 
 ## Deploy on Vercel
